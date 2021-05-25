@@ -135,5 +135,6 @@ dependencies:
     - openpyxl
     - ipywidgets
     - cryptography
+    - xclim
     - pip:
       - ContrailOnlineCAClient 
