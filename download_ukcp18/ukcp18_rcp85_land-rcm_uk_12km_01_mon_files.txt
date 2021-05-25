@@ -1,0 +1,15 @@
+clt/mon/latest/clt_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc
+hurs/mon/latest/hurs_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc
+huss/mon/latest/huss_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc
+pr/mon/latest/pr_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc
+prsn/mon/latest/prsn_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc
+psl/mon/latest/psl_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc
+rls/mon/latest/rls_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc
+rss/mon/latest/rss_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc
+sfcWind/mon/latest/sfcWind_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc
+snw/mon/latest/snw_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc
+tasmax/mon/latest/tasmax_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc
+tasmin/mon/latest/tasmin_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc
+tas/mon/latest/tas_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc
+uas/mon/latest/uas_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc
+vas/mon/latest/vas_rcp85_land-rcm_uk_12km_01_mon_198012-208011.nc

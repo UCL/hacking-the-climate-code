@@ -98,8 +98,8 @@ def setup_credentials():
         return False
 
     # Get CEDA username and password from environment variables
-    username = os.environ['CEDA_USERNAME']
-    password = os.environ['CEDA_PASSWORD']
+    username = 'cmb243'
+    password = 'PASSWORD'
 
     onlineca_client = OnlineCaClient()
     onlineca_client.ca_cert_dir = TRUSTROOTS_DIR
