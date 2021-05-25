@@ -1,4 +1,4 @@
-name: jupyter_japsy 
+name: jupyter_jaspy 
 channels:
     - conda-forge
     - defaults
@@ -12,13 +12,11 @@ dependencies:
     - cdo
     - cftime
     - cf_units
-#    - cis
     - cloudpickle
     - cycler
     - cython
     - dask
     - descartes
-#    - descartes==1.1.0
     - emcee
     - eofs
     - esmf
@@ -107,7 +105,6 @@ dependencies:
     - s3transfer
     - scikit-learn
     - scipy
-#    - scipy==1.1
     - setuptools
     - shapely
     - six
@@ -125,6 +122,7 @@ dependencies:
     - windspharm
     - wxpython
     - xarray
+    # Adding some bits for Jupyter
     - ipykernel
     - jupyter_console
     - git-lfs
@@ -132,3 +130,10 @@ dependencies:
     - nbconvert
     - jupyter
     - r-irkernel
+    # Adding some for hackathon
+    - folium
+    - openpyxl
+    - ipywidgets
+    - cryptography
+    - pip:
+      - ContrailOnlineCAClient 
