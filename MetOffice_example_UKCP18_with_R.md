@@ -3,6 +3,8 @@ Met Office Climate Data Hackathon
 R programming examples
 2/3/2021
 
+_This file has been sourced from <https://github.com/COP26-Hackathon/Met-Office-Climate-Data-Challenge-March_2021>_
+
 # Met Office Climate Data Hackathon
 
 ## Using R with UK Climate Projections data
