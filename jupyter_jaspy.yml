@@ -100,6 +100,7 @@ dependencies:
     - pyzmq
     - r
     - r-devtools
+    - r-rgdal
     - r-ncdf4
     - rpy2
     - s3transfer
@@ -136,5 +137,7 @@ dependencies:
     - ipywidgets
     - cryptography
     - xclim
+    # Frustating the CEDA certification software needs pip
+    - pip
     - pip:
       - ContrailOnlineCAClient 
