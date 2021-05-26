@@ -137,6 +137,7 @@ dependencies:
     - ipywidgets
     - cryptography
     - xclim
+    - xarray-extras
     # Frustating the CEDA certification software needs pip
     - pip
     - pip:
